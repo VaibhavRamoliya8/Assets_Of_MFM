@@ -63,17 +63,18 @@
   },
   {
     "id": 6,
-    "title": "Wan's X-Ray Goggles",
+    "title": "Health and Damage Indicator Addon",
     "image_preview": "addon/6_thumbnail.png",
-    "skin": "addon/6_data_rp.mcpack",
+    "skin": "addon/6_data.mcpack",
     "list_image": [
-      "addon/6_image_preview_1.jpg",
+      "addon/6_image_preview_1.png",
       "addon/6_image_preview_2.jpg",
       "addon/6_image_preview_3.jpg",
-      "addon/6_image_preview_4.jpg",
-      "addon/6_image_preview_5.jpg"
+      "addon/6_image_preview_4.png",
+      "addon/6_image_preview_5.png",
+      "addon/6_image_preview_6.png"
     ],
-    "description": "Craft your X-Ray Goggles to be able to see whatever you want! Toggle the various upgrades to see all the ores, chests, mob spawners and entities (also other players) around you through the walls!"
+    "description": "No more guessing if your attacks are effective or how tough your foes really are. This addon gives you the power to monitor combat like a pro, bringing a more immersive and strategic element to your battles."
   },
   {
     "id": 7,
@@ -135,18 +136,14 @@
   },
   {
     "id": 12,
-    "title": "DeadZone",
+    "title": "Astraliyte's Potions",
     "image_preview": "addon/12_thumbnail.png",
-    "skin": "addon/12_data_rp.mcpack",
+    "skin": "addon/12_data.mcpack",
     "list_image": [
       "addon/12_image_preview_1.png",
-      "addon/12_image_preview_2.png",
-      "addon/12_image_preview_3.png",
-      "addon/12_image_preview_4.png",
-      "addon/12_image_preview_5.png",
-      "addon/12_image_preview_6.png"
+      "addon/12_image_preview_2.png"
     ],
-    "description": "DeadZone is a survival addon inspired by the game DayZ that puts you in the role of a survivor in a post-apocalyptic world. The goal is simple: survive as long as possible, search every building for loot, and craft your own story along the way."
+    "description": "Hello and welcome to another bedrock port that I made! Astraliyte Potions was originally made by Astraliyte for Java Edition and was ported by me to Bedrock Edition. This pack adds styles to different potions so you can distinguish their differences."
   },
   {
     "id": 13,
@@ -280,31 +277,5 @@
       "addon/24_image_preview_2.png"
     ],
     "description": "Have you wanted to be able to chop down trees in one break? Or maybe, you want to mine coal, but it would take too long? Say no more! with Edds VeinCapitator you can do both!"
-  },
-  {
-    "id": 25,
-    "title": "Astraliyte's Potions",
-    "image_preview": "addon/25_thumbnail.png",
-    "skin": "addon/25_data.mcpack",
-    "list_image": [
-      "addon/25_image_preview_1.png",
-      "addon/25_image_preview_2.png"
-    ],
-    "description": "Hello and welcome to another bedrock port that I made! Astraliyte Potions was originally made by Astraliyte for Java Edition and was ported by me to Bedrock Edition. This pack adds styles to different potions so you can distinguish their differences."
-  },
-  {
-    "id": 26,
-    "title": "Health and Damage Indicator Addon",
-    "image_preview": "addon/26_thumbnail.png",
-    "skin": "addon/26_data.mcpack",
-    "list_image": [
-      "addon/26_image_preview_1.png",
-      "addon/26_image_preview_2.jpg",
-      "addon/26_image_preview_3.jpg",
-      "addon/26_image_preview_4.png",
-      "addon/26_image_preview_5.png",
-      "addon/26_image_preview_6.png"
-    ],
-    "description": "No more guessing if your attacks are effective or how tough your foes really are. This addon gives you the power to monitor combat like a pro, bringing a more immersive and strategic element to your battles."
   }
 ]
