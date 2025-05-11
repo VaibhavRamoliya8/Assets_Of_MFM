@@ -1,9 +1,5 @@
 [
   {
-    "download_url": "http://160.25.233.26:6789/",
-    "test_download_url": "http://160.25.233.26:6789/addon/1_1.png"
-  },
-  {
     "id": 1,
     "title": "I need more coffee! Addon",
     "image_preview": "addon/1.png",
