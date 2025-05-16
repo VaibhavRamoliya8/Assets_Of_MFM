@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Random SkyBlock 1.21.6x (fix)",
     "image_preview": "map/1_thumbnail.png",
-    "skin": "map/1_data.mcworld",
+    "skin": "map/1_data_mp.mcworld",
     "list_image": [
       "map/1_image_preview_1.png",
       "map/1_image_preview_2.png"
@@ -14,7 +14,7 @@
     "id": 2,
     "title": "Tomodachi Stage",
     "image_preview": "map/2_thumbnail.png",
-    "skin": "map/2_data.mcworld",
+    "skin": "map/2_data_mp.mcworld",
     "list_image": [
       "map/2_image_preview_1.png",
       "map/2_image_preview_2.png"
@@ -25,7 +25,7 @@
     "id": 3,
     "title": "The Block Museum",
     "image_preview": "map/3_thumbnail.png",
-    "skin": "map/3_data.mcworld",
+    "skin": "map/3_data_mp.mcworld",
     "list_image": [
       "map/3_image_preview_1.png",
       "map/3_image_preview_2.png",
@@ -37,7 +37,7 @@
     "id": 4,
     "title": "Scapecraft",
     "image_preview": "map/4_thumbnail.png",
-    "skin": "map/4_data.mcworld",
+    "skin": "map/4_data_mp.mcworld",
     "list_image": [
       "map/4_image_preview_1.jpg",
       "map/4_image_preview_2.jpg",
@@ -49,7 +49,7 @@
     "id": 5,
     "title": "Mining Sim³",
     "image_preview": "map/5_thumbnail.png",
-    "skin": "map/5_data.mcworld",
+    "skin": "map/5_data_mp.mcworld",
     "list_image": [
       "map/5_image_preview_1.jpg",
       "map/5_image_preview_2.jpg",
@@ -61,7 +61,7 @@
     "id": 6,
     "title": "Chicken Battle Arena",
     "image_preview": "map/6_thumbnail.png",
-    "skin": "map/6_data.mcworld",
+    "skin": "map/6_data_mp.mcworld",
     "list_image": [
       "map/6_image_preview_1.jpg",
       "map/6_image_preview_2.jpg",
@@ -73,7 +73,7 @@
     "id": 7,
     "title": "Cristalización [CTM]",
     "image_preview": "map/7_thumbnail.png",
-    "skin": "map/7_data.mcworld",
+    "skin": "map/7_data_mp.mcworld",
     "list_image": [
       "map/7_image_preview_1.png"
     ],
@@ -83,7 +83,7 @@
     "id": 8,
     "title": "The Triangle",
     "image_preview": "map/8_thumbnail.png",
-    "skin": "map/8_data.mcworld",
+    "skin": "map/8_data_mp.mcworld",
     "list_image": [
       "map/8_image_preview_1.png",
       "map/8_image_preview_2.png",
@@ -95,7 +95,7 @@
     "id": 9,
     "title": "FNAF Ultimate Pizzaplex",
     "image_preview": "map/9_thumbnail.png",
-    "skin": "map/9_data.mcworld",
+    "skin": "map/9_data_mp.mcworld",
     "list_image": [
       "map/9_image_preview_1.png",
       "map/9_image_preview_2.png",
@@ -107,7 +107,7 @@
     "id": 10,
     "title": "Raid the Jungle Temple!",
     "image_preview": "map/10_thumbnail.png",
-    "skin": "map/10_data.mcworld",
+    "skin": "map/10_data_mp.mcworld",
     "list_image": [
       "map/10_image_preview_1.jpg",
       "map/10_image_preview_2.jpg",
@@ -119,7 +119,7 @@
     "id": 11,
     "title": "PvZ3 Beta 3 Full Map",
     "image_preview": "map/11_thumbnail.png",
-    "skin": "map/11_data.mcworld",
+    "skin": "map/11_data_mp.mcworld",
     "list_image": [
       "map/11_image_preview_1.png",
       "map/11_image_preview_2.png",
@@ -131,7 +131,7 @@
     "id": 12,
     "title": "Escape the Emerald Empire",
     "image_preview": "map/12_thumbnail.png",
-    "skin": "map/12_data.mcworld",
+    "skin": "map/12_data_mp.mcworld",
     "list_image": [
       "map/12_image_preview_1.jpg",
       "map/12_image_preview_2.jpg",
@@ -143,7 +143,7 @@
     "id": 13,
     "title": "The Arena - 4v4 Team Deathmatch",
     "image_preview": "map/13_thumbnail.png",
-    "skin": "map/13_data.mcworld",
+    "skin": "map/13_data_mp.mcworld",
     "list_image": [
       "map/13_image_preview_1.jpg",
       "map/13_image_preview_2.jpg",
@@ -155,7 +155,7 @@
     "id": 14,
     "title": "Kirill's SkyGen",
     "image_preview": "map/14_thumbnail.png",
-    "skin": "map/14_data.mcworld",
+    "skin": "map/14_data_mp.mcworld",
     "list_image": [
       "map/14_image_preview_1.png",
       "map/14_image_preview_2.png",
@@ -167,7 +167,7 @@
     "id": 15,
     "title": "Escape The Diamond Dungeon!",
     "image_preview": "map/15_thumbnail.png",
-    "skin": "map/15_data.mcworld",
+    "skin": "map/15_data_mp.mcworld",
     "list_image": [
       "map/15_image_preview_1.jpg",
       "map/15_image_preview_2.jpg",
@@ -179,7 +179,7 @@
     "id": 16,
     "title": "Every Sound in Minecraft",
     "image_preview": "map/16_thumbnail.png",
-    "skin": "map/16_data.mcworld",
+    "skin": "map/16_data_mp.mcworld",
     "list_image": [
       "map/16_image_preview_1.png",
       "map/16_image_preview_2.png",
@@ -191,7 +191,7 @@
     "id": 17,
     "title": "Escape The Zombie Dungeon!",
     "image_preview": "map/17_thumbnail.png",
-    "skin": "map/17_data.mcworld",
+    "skin": "map/17_data_mp.mcworld",
     "list_image": [
       "map/17_image_preview_1.jpg",
       "map/17_image_preview_2.jpg",
@@ -203,7 +203,7 @@
     "id": 18,
     "title": "Zombie Apocalypse v2.1",
     "image_preview": "map/18_thumbnail.png",
-    "skin": "map/18_data.mcworld",
+    "skin": "map/18_data_mp.mcworld",
     "list_image": [
       "map/18_image_preview_1.png",
       "map/18_image_preview_2.jpg",
@@ -217,7 +217,7 @@
     "id": 19,
     "title": "SQUID GAME LITE",
     "image_preview": "map/19_thumbnail.png",
-    "skin": "map/19_data.mcworld",
+    "skin": "map/19_data_mp.mcworld",
     "list_image": [
       "map/19_image_preview_1.png",
       "map/19_image_preview_2.png",
@@ -229,7 +229,7 @@
     "id": 20,
     "title": "City Roman Style",
     "image_preview": "map/20_thumbnail.png",
-    "skin": "map/20_data.mcworld",
+    "skin": "map/20_data_mp.mcworld",
     "list_image": [
       "map/20_image_preview_1.jpg",
       "map/20_image_preview_2.jpg",
@@ -242,7 +242,7 @@
     "id": 21,
     "title": "Fantasy Village",
     "image_preview": "map/21_thumbnail.png",
-    "skin": "map/21_data.mcworld",
+    "skin": "map/21_data_mp.mcworld",
     "list_image": [
       "map/21_image_preview_1.jpg",
       "map/21_image_preview_2.jpg",
@@ -258,7 +258,7 @@
     "id": 22,
     "title": "MonoCity",
     "image_preview": "map/22_thumbnail.png",
-    "skin": "map/22_data.mcworld",
+    "skin": "map/22_data_mp.mcworld",
     "list_image": [
       "map/22_image_preview_1.png",
       "map/22_image_preview_2.png",
@@ -273,7 +273,7 @@
     "id": 23,
     "title": "Escape From Bedrock V2",
     "image_preview": "map/23_thumbnail.png",
-    "skin": "map/23_data.mcworld",
+    "skin": "map/23_data_mp.mcworld",
     "list_image": [
       "map/23_image_preview_1.jpg",
       "map/23_image_preview_2.jpg"
@@ -284,7 +284,7 @@
     "id": 24,
     "title": "Desert Village",
     "image_preview": "map/24_thumbnail.png",
-    "skin": "map/24_data.mcworld",
+    "skin": "map/24_data_mp.mcworld",
     "list_image": [
       "map/24_image_preview_1.png",
       "map/24_image_preview_2.png",
@@ -297,7 +297,7 @@
     "id": 25,
     "title": "Tomophobia",
     "image_preview": "map/25_thumbnail.png",
-    "skin": "map/25_data.mcworld",
+    "skin": "map/25_data_mp.mcworld",
     "list_image": [
       "map/25_image_preview_1.jpg",
       "map/25_image_preview_2.jpg",
@@ -309,7 +309,7 @@
     "id": 26,
     "title": "Alien spaceship",
     "image_preview": "map/26_thumbnail.png",
-    "skin": "map/26_data.mcworld",
+    "skin": "map/26_data_mp.mcworld",
     "list_image": [
       "map/26_image_preview_1.png"
     ],
@@ -319,7 +319,7 @@
     "id": 27,
     "title": "The Triangle | A Minecraft Parkour Map",
     "image_preview": "map/27_thumbnail.png",
-    "skin": "map/27_data.mcworld",
+    "skin": "map/27_data_mp.mcworld",
     "list_image": [
       "map/27_image_preview_1.png",
       "map/27_image_preview_2.png",
@@ -332,7 +332,7 @@
     "id": 28,
     "title": "The Elements Adventure",
     "image_preview": "map/28_thumbnail.png",
-    "skin": "map/28_data.mcworld",
+    "skin": "map/28_data_mp.mcworld",
     "list_image": [
       "map/28_image_preview_1.png",
       "map/28_image_preview_2.png",
@@ -348,7 +348,7 @@
     "id": 29,
     "title": "Elsemere Junction Northern Ruthavalekey",
     "image_preview": "map/29_thumbnail.png",
-    "skin": "map/29_data.mcworld",
+    "skin": "map/29_data_mp.mcworld",
     "list_image": [
       "map/29_image_preview_1.jpg",
       "map/29_image_preview_2.jpg",
@@ -360,7 +360,7 @@
     "id": 30,
     "title": "Escape From The Jungle",
     "image_preview": "map/30_thumbnail.png",
-    "skin": "map/30_data.mcworld",
+    "skin": "map/30_data_mp.mcworld",
     "list_image": [
       "map/30_image_preview_1.png",
       "map/30_image_preview_2.png",
