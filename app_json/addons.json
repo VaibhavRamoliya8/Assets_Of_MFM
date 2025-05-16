@@ -65,7 +65,7 @@
     "id": 6,
     "title": "Health and Damage Indicator Addon",
     "image_preview": "addon/6_thumbnail.png",
-    "skin": "addon/6_data.mcpack",
+    "skin": "addon/6_data_rp.mcpack",
     "list_image": [
       "addon/6_image_preview_1.png",
       "addon/6_image_preview_2.jpg",
@@ -80,7 +80,7 @@
     "id": 7,
     "title": "RPG ELEMENTAL WEAPON",
     "image_preview": "addon/7_thumbnail.png",
-    "skin": "addon/7_data.mcpack",
+    "skin": "addon/7_data_rp.mcpack",
     "list_image": [
       "addon/7_image_preview_1.jpg",
       "addon/7_image_preview_2.jpg",
@@ -138,7 +138,7 @@
     "id": 12,
     "title": "Astraliyte's Potions",
     "image_preview": "addon/12_thumbnail.png",
-    "skin": "addon/12_data.mcpack",
+    "skin": "addon/12_data_rp.mcpack",
     "list_image": [
       "addon/12_image_preview_1.png",
       "addon/12_image_preview_2.png"
@@ -149,7 +149,7 @@
     "id": 13,
     "title": "Project Walker Addon",
     "image_preview": "addon/13_thumbnail.png",
-    "skin": "addon/13_data.mcpack",
+    "skin": "addon/13_data_rp.mcpack",
     "list_image": [
       "addon/13_image_preview_1.png"
     ],
@@ -159,7 +159,7 @@
     "id": 14,
     "title": "XRay",
     "image_preview": "addon/14_thumbnail.png",
-    "skin": "addon/14_data.mcpack",
+    "skin": "addon/14_data_rp.mcpack",
     "list_image": [
       "addon/14_image_preview_1.png",
       "addon/14_image_preview_2.jpg",
@@ -238,7 +238,7 @@
     "id": 21,
     "title": "Dwellers Horror [From the fog]",
     "image_preview": "addon/21_thumbnail.png",
-    "skin": "addon/21_data.mcpack",
+    "skin": "addon/21_data_rp.mcpack",
     "list_image": [
       "addon/21_image_preview_1.png",
       "addon/21_image_preview_2.png"
@@ -271,7 +271,7 @@
     "id": 24,
     "title": "Edds' VeinCapitator",
     "image_preview": "addon/24_thumbnail.png",
-    "skin": "addon/24_data.mcpack",
+    "skin": "addon/24_data_rp.mcpack",
     "list_image": [
       "addon/24_image_preview_1.png",
       "addon/24_image_preview_2.png"
