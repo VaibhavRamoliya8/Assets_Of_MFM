@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Purple Ender Dragon Wings for Elytra",
     "image_preview": "texture/1_thumbnail.png",
-    "skin": "texture/1_data.mcpack",
+    "skin": "texture/1_data_te.mcpack",
     "list_image": [
       "texture/1_image_preview_1.png",
       "texture/1_image_preview_2.png",
@@ -15,7 +15,7 @@
     "id": 2,
     "title": "Full Rainbow Enchantment Glint | Bedrock Edition",
     "image_preview": "texture/2_thumbnail.png",
-    "skin": "texture/2_data.mcpack",
+    "skin": "texture/2_data_te.mcpack",
     "list_image": [
       "texture/2_image_preview_1.png",
       "texture/2_image_preview_2.png"
